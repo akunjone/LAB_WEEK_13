@@ -1,6 +1,6 @@
-Nama	: John Isaac Witness
-NIM	: 00000088626
-Mobile App Programming Week 12
+Nama	: John Isaac Witness<br>
+NIM	: 00000088626<br>
+Mobile App Programming Week 12<br>
 LINK GITHUB: <a href="https://github.com/akunjone/LAB_WEEK_12">Link</a>
 
 <h1>Part 1 - Building App with Coroutines</h1>
